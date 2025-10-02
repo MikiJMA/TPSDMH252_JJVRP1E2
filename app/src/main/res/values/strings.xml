@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TPSDMH252_JJVRP1E2</string>
+    <string name="p1titulo">ingreso de datos</string>
+    <string name="p1solnombre">ingrese su nombre</string>
+    <string name="hsolnombre">Aqui tu nombre</string>
+    <string name="blsaludar">Saludar</string>
+    <string name="p1tiutulo2">Calculadora</string>
+    <string name="lnum1">Ingresa el primer numero</string>
+    <string name="lnum2">Ingresa el segundo numero</string>
+    <string name="hlnum1">Aqui el primer numero</string>
+    <string name="hlnum2">Aqui el segundo numero</string>
+    <string name="blsumar">Suma numeros</string>
+
+</resources>
